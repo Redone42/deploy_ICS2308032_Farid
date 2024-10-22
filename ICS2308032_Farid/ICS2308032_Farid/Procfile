@@ -1,0 +1,1 @@
+web: gunicorn ICS2308032_Farid.wsgi --log-file -
